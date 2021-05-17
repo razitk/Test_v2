@@ -8,7 +8,7 @@ $toCheck = array(
 // Kommentar für Git
 $zahl = 12345;
 $zahl - 30;
-
+$zahl2 = 325;
 function check($checkList){
 
 for($i =0; $i < 4; $i++) {
